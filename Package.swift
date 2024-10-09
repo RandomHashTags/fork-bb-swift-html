@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "swift-html",
+    name: "bb-swift-html",
     platforms: [
        .macOS(.v10_15)
     ],
